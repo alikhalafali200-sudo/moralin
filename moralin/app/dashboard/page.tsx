@@ -1,0 +1,1 @@
+import Editor from '../ui/Editor';export default function Dashboard(){return <main className="shell"><h1>لوحة التحكم</h1><p className="notice">نسخة MVP: محرر الملف الشخصي مرتبط بقاعدة البيانات. يلزم إعداد Supabase وملف البيئة.</p><Editor/></main>}

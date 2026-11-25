@@ -1,0 +1,1 @@
+import AuthForm from '../ui/AuthForm'; export default function Signup(){return <AuthForm mode="signup"/>}
